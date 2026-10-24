@@ -1,0 +1,2 @@
+window.SUPABASE_URL = "https://fvwwajpgdoezmzmwsnqs.supabase.co";
+window.SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ2d3dhanBnZG9lem16bXdzbnFzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI4NTc2MzQsImV4cCI6MjEwODQzMzYzNH0.-3df600f9nNR2Za8QQnJLPuL3oTgKydMC6geyjmZmBY";
